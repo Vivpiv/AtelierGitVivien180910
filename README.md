@@ -2,5 +2,4 @@
 Basic boilerplate to start future projects.
 Modification README.md - Amandine
 
-Modification gestion conflit -Amandine
-
+blablabla / new modification by Vivpiv
